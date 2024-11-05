@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Hendric, and I'm currently studying at Coder Academy (Graduating in March 2025). 
+If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new restaurant 🍛, trying new things 🥽 or travelling ✈️.
+
+🌱 I’m currently learning ...
+
+📫 How to reach me: ...
+
 <!--
 **hendricwidjaja/hendricwidjaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
