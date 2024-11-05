@@ -1,9 +1,19 @@
 ## Hi there 👋
 
-My name is Hendric, and I'm currently studying at Coder Academy (Graduating in March 2025). 
+My name is Hendric, and I'm currently studying at Coder Academy (Graduating in March 2025).  
 If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new restaurant 🍛, trying new things 🥽 or travelling ✈️.
 
 🌱 I’m currently learning ...
+[HTML](/assets/html-icon.webp)
+[CSS](/assets/css-icon.webp)
+[JavaScript](/assets/js-icon.webp)
+[React](/assets/react-icon.webp)
+[Python](/assets/python-icon.webp)
+[Flask](/assets/flask-icon.svg)
+[Node.JS](/assets/node-js-icon.webp)
+[Express](/assets/express-icon.svg)
+<!-- [SQL](/assets/) -->
+[MongoDB](/assets/mongodb-icon.webp)
 
 📫 How to reach me: ...
 
