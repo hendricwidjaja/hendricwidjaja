@@ -16,7 +16,14 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-📫 How to reach me: ...
+📫 How to reach me: ...  
+
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="mailto:your-email@example.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
+</a>
 
 <!--
 **hendricwidjaja/hendricwidjaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
