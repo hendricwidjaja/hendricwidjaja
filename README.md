@@ -18,10 +18,10 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
 
 📫 How to reach me: ...  
 
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">
+<a href="https://www.linkedin.com/in/hendric-widjaja/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:hcwidjaja@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
 </a>
 
