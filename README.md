@@ -1,4 +1,6 @@
-<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+</div>
 
 ## Hi, I'm ~~Mario~~ Hendric!
 
@@ -9,7 +11,7 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
 
 ### 🌱 I’m currently practicing the skill of multitasking, by riding on a rollercoaster while learning:  
 
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height=30>
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height=30>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height=30>
@@ -30,7 +32,9 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
 <a href="mailto:hcwidjaja@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
 </a>
+
 <br></br>
+
 <div align="center">
     <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card"/>
     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=hendricwidjaja&theme=radical&hide_border=false" alt="GitHub streak card"/>
