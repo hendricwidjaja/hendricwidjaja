@@ -1,5 +1,5 @@
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+<div align="left">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="808">
 </div>
 
 ## Hi, I'm ~~Mario~~ Hendric!
@@ -35,7 +35,7 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
 
 <br></br>
 
-<div align="center">
+<div align="left">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card"/>
     <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=hendricwidjaja&theme=radical&hide_border=false" alt="GitHub streak card"/>
     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub top-langs Card"/>
