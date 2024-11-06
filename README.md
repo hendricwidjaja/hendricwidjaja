@@ -35,7 +35,7 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
 
 <br></br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center">
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card"/>
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=hendricwidjaja&theme=radical&hide_border=false" alt="GitHub streak card"/>
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub top-langs Card"/>
