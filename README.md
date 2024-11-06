@@ -23,8 +23,9 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
 </div>
 
 <div align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=hendricwidjaja&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hendricwidjaja&theme=radical&hide_border=false" alt="GitHub streak card"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub top-langs Card"/>
 </div>
 
 
