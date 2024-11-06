@@ -9,7 +9,7 @@ I'm passionate about delivering products that bring real value into the lives of
 
 If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new restaurant 🍛, trying new things 🥽 or travelling ✈️  
 
-### 🌱 I’m currently practicing the skill of multitasking, by riding on a rollercoaster while learning:  
+### 🌱 I’m currently multitasking: Riding a rollercoaster 🎢, drinking a coffee ☕️, and learning 🧠:  
 
 <div align="center">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height=30>
