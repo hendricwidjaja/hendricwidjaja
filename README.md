@@ -22,12 +22,6 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height=30>
 </div>
 
-<div align="left">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card"/>
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=hendricwidjaja&theme=radical&hide_border=false" alt="GitHub streak card"/>
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub top-langs Card"/>
-</div>
-
 ### 📫 How to reach me:  
 
 <a href="https://www.linkedin.com/in/hendric-widjaja/" target="_blank">
@@ -36,6 +30,14 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
 <a href="mailto:hcwidjaja@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
 </a>
+<br></br>
+<div align="left">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card"/>
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=hendricwidjaja&theme=radical&hide_border=false" alt="GitHub streak card"/>
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub top-langs Card"/>
+</div>
+
+
 
 <!--
 **hendricwidjaja/hendricwidjaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
