@@ -1,13 +1,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 
-## Hi!, my name is Hendric <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />  
+## Hi, I'm ~~Mario~~ Hendric!
 
 I'm currently a student at Coder Academy and working towards a Diploma in IT (March 2025 Graduate).  
 I'm passionate about delivering products that bring real value into the lives of others.  
 
-If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new restaurant 🍛, trying new things 🥽 or travelling ✈️.  
+If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new restaurant 🍛, trying new things 🥽 or travelling ✈️  
 
-### 🌱 I’m currently practicing the skill of multitasking, by riding on a rollercoaster while learning ...
+### 🌱 I’m currently practicing the skill of multitasking, by riding on a rollercoaster while learning:  
 
 <div>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height=30>
@@ -22,7 +22,13 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height=30>
 </div>
 
-### 📫 How to reach me: ...
+<div align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=24" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=hendricwidjaja&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</div>
+
+
+### 📫 How to reach me:  
 
 <a href="https://www.linkedin.com/in/hendric-widjaja/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
