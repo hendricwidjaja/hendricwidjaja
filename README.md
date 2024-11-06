@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 My name is Hendric, and I'm currently studying at Coder Academy (Graduating in March 2025).  
-If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new restaurant 🍛, trying new things 🥽 or travelling ✈️.  
-
 Passionate about delivering products that bring real value into the lives of others.  
+
+If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new restaurant 🍛, trying new things 🥽 or travelling ✈️.  
 
 🌱 I’m currently learning ...  
 
