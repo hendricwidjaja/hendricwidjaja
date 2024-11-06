@@ -23,11 +23,10 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
 </div>
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hendricwidjaja&theme=radical&hide_border=false" alt="GitHub streak card"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub top-langs Card"/>
+    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card"/>
+    <img height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=hendricwidjaja&theme=radical&hide_border=false" alt="GitHub streak card"/>
+    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="GitHub top-langs Card"/>
 </div>
-
 
 ### 📫 How to reach me:  
 
