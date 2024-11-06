@@ -33,7 +33,7 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/>
 </a>
 
-<br></br>
+---
 
 <div align="left">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card"/>
