@@ -9,7 +9,7 @@ I'm passionate about delivering products that bring real value into the lives of
 
 If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new restaurant 🍛, trying new things 🥽 or travelling ✈️  
 
-### 🌱 I’m currently multitasking: Riding a rollercoaster 🎢, drinking a coffee ☕️, and learning 🧠:  
+### 🌱 I’m currently multitasking: Riding rollercoasters 🎢, drinking coffee ☕️, and learning 🧠:  
 
 <div align="center">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height=30>
@@ -34,7 +34,7 @@ If I'm not at my desk, you can find me at the gym 🏋🏽‍♀️, at a new re
 </a>
 
 ---
-
+<!-- Taken from: https://gh-stats-gen.vercel.app/ -->
 <div align="left">
     <img height="168px" src="https://github-readme-stats.vercel.app/api?username=hendricwidjaja&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="GitHub stats Card"/>
     <img height="168px" src="https://github-readme-streak-stats.herokuapp.com/?user=hendricwidjaja&theme=radical&hide_border=false" alt="GitHub streak card"/>
